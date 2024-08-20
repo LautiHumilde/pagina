@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "Tomi Ordones",
+      "email": "tomasordones8000@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "negro gutierrrez",
+      "email": "pepeelgamer@gmail.com"
+    }
+  ]
+}
